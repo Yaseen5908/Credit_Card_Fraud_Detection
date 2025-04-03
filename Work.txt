@@ -1,0 +1,48 @@
+Service Provider
+
+Login,
+Browse and Train & Test Credit Card Data Sets, 
+View Trained and Tested Datasets Accuracy in Bar Chart, 
+View Trained and Tested Datasets Accuracy Results, 
+View Prediction Of Credit Card Fraud Detection ,
+View Prediction Of Credit Card Fraud Detection Ratio, 
+Download Predicted Data Sets, 
+View Credit Card Fraud Detection Ratio Results, 
+View All Remote Users.
+
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT CREDIT CARD FRAUD DETECTION TYPE,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+trans_date,
+cc_num,
+category,
+AMT_TRANS,
+first,
+last,
+gender,
+street,
+city,
+state,
+zip,
+User_Lat,
+User_Long,
+city_pop,
+Job,
+Dob,
+trans_num,
+merch_lat,
+merch_long,
+Prediction.
+
+
+
+
